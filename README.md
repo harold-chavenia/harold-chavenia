@@ -39,8 +39,8 @@
 ### 📫 Let’s Connect
 
 - 📧 Email: [haroldchavenia.hc@gmail.com](mailto:haroldchavenia.hc@gmail.com)
-- 💼 LinkedIn: *[Add your LinkedIn URL here for better reach]*
-- 🌍 Portfolio: *[Optional: Add a personal portfolio if available]*
+- 💼 LinkedIn: *[https://www.linkedin.com/in/harold-chavenia]*
+- 🌍 Portfolio: *[harold-chavenia.github.io]*
 
 ---
 
