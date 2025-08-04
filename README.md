@@ -40,7 +40,7 @@
 
 - 📧 Email: [haroldchavenia.hc@gmail.com](mailto:haroldchavenia.hc@gmail.com)
 - 💼 LinkedIn: *[https://www.linkedin.com/in/harold-chavenia]*
-- 🌍 Portfolio: *[harold-chavenia.github.io]*
+- 🌍 Portfolio: *[https://harold-chavenia.github.io]*
 
 ---
 
